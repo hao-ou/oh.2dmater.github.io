@@ -1,0 +1,40 @@
+site_name: oh, 2d maters
+
+site_url: https://github.com/hao-ou/oh.2dmater.github.io/
+
+plugins:
+  - search
+
+theme: 
+  name: material
+  logo: assets/Logo.png
+  language: en
+  palette: 
+    primary: white
+  features:
+    - content.code.copy
+  font:
+    text: Arial
+    code: Roboto Mono
+features: 
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - toc.follow
+
+extra_css: 
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - footnotes
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Publications: publications.md
+  - Updates: News&history.md
+  - CV: cv.md
+  - Contact: contact.md
