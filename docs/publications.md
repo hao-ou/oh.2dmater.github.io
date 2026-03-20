@@ -3,6 +3,7 @@
 ## 2026
 
 - Abdul Ahad, Miuko Tanaka, Nguyen Duy Khanh, Riku Ishioka, Aki Kitaori, Tenta Kitamura, <u>Hao Ou</u>, Jiang Pu, Shinichiro Seki, and Toshiya Ideue. **"Piezomagnetic transport in van der Waals noncoplanar Antiferromagnets"**. *arXiv preprint arXiv:2602.04245* (2026).
+- <u>Hao Ou</u>, Sota Tsukamoto, Tenta Kitamura, Motoki Matsuno, Koshi Oi, Togo Takahashi, Takahiro Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Photovoltaic Device Based on Monolayer Compositionally Graded Transition Metal Dichalcogenide Alloy"**. *Small Methods*, e01997 (2026).
 ## 2025
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Ryo Kitaura, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Continuous Strain Modulation of Moir\'e Superlattice Symmetry From Triangle to Rectangle"**. *Small*, **21**, 2407316 (2025).
