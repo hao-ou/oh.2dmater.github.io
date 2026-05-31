@@ -1,6 +1,6 @@
 site_name: oh, 2d maters
 
-site_url: https://github.com/hao-ou/oh.2dmater.github.io/
+site_url: https://hao-ou.github.io/oh.2dmater.github.io/
 
 plugins:
   - search
@@ -13,14 +13,13 @@ theme:
     primary: white
   features:
     - content.code.copy
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
   font:
     text: Arial
     code: Roboto Mono
-features: 
-  - navigation.tabs
-  - navigation.sections
-  - navigation.expand
-  - toc.follow
 
 extra_css: 
   - stylesheets/extra.css
