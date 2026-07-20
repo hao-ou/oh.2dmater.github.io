@@ -3,14 +3,19 @@
 ## 2026
 
 - Abdul Ahad, Miuko Tanaka, Nguyen Duy Khanh, Riku Ishioka, Aki Kitaori, Tenta Kitamura, <u>Hao Ou</u>, Jiang Pu, Shinichiro Seki, and Toshiya Ideue. **"Piezomagnetic transport in van der Waals noncoplanar Antiferromagnets"**. *arXiv preprint arXiv:2602.04245* (2026).
-- <u>Hao Ou</u>, Sota Tsukamoto, Tenta Kitamura, Motoki Matsuno, Koshi Oi, Togo Takahashi, Takahiro Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Photovoltaic Device Based on Monolayer Compositionally Graded Transition Metal Dichalcogenide Alloy"**. *Small Methods*, e01997 (2026).
+- <u>Hao Ou</u>, Sota Tsukamoto, Tenta Kitamura, Motoki Matsuno, Koshi Oi, Togo Takahashi, Takahiko Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Photovoltaic Device Based on Monolayer Compositionally Graded Transition Metal Dichalcogenide Alloy"**. *Small Methods*, **10**, e01997 (2026).
+- Rei Usami, Koshi Oi, Keisuke Yamada, Jiang Pu, <u>Hao Ou</u>, Takahiko Endo, Yasumitsu Miyata, and Taishi Takenobu. **"Stepwise Engineering of Van der Waals Heterostructures for High Current Density in Light Emitting Devices"**. *Advanced Electronic Materials*, e00930 (2026).
 ## 2025
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Ryo Kitaura, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Continuous Strain Modulation of Moir\'e Superlattice Symmetry From Triangle to Rectangle"**. *Small*, **21**, 2407316 (2025).
+## 2024
+
+- Koshi Oi, <u>Hao Ou</u>, Jiang Pu, Takahiko Endo, Yasumitsu Miyata, and Taishi Takenobu. **"High current density in electric double layer light-emitting devices of WSe2 monolayers"**. ** (2024).
 ## 2023
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Ion-gel-based light-emitting devices using transition metal dichalcogenides and hexagonal boron nitride heterostructures"**. *Japanese Journal of Applied Physics*, **62**, SC1026 (2023).
 - Yuki Tanaka, Shun-ichiro Ito, Junfeng Liu, <u>Hao Ou</u>, Hisaaki Tanaka, Jiang Pu, Atsuhiro Ikeno, Takuji Hatakeyama, and Taishi Takenobu. **"Solution-Processable Ultrapure-Blue Light-Emitting Electrochemical Cells"**. *Advanced Optical Materials*, **11**, 2301119 (2023).
+- <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Strain Modulation to Moire Superlattices in Two-Dimensional Material van der Waals Heterostructures"**. ** (2023).
 ## 2022
 
 - <u>Hao Ou</u>, Tomoyuki Yamada, Masaya Mitamura, Yusuke Edagawa, Tatsuma D Matsuda, Kazuhiro Yanagi, Chang-Hsiao Chen, Lain-Jong Li, Taishi Takenobu, and Jiang Pu. **"Electric-field-induced metal-insulator transition and quantum transport in large-area polycrystalline MoS 2 monolayers"**. *Physical Review Materials*, **6**, 064005 (2022).
@@ -24,6 +29,3 @@
 - Wenchao Li, Lei Shi, Kui Zhou, Xianglin Zhang, Ismat Ullah, <u>Hao Ou</u>, Wancheng Zhang, and Tianjun Wu. **"Facile fabrication of porous polymer fibers via cryogenic electrospinning system"**. *Journal of Materials Processing Technology*, **266**, 551-557 (2019).
 - <u>Hao Ou</u>, Hanlin Peng, Lei Shi, Ullah Ismat, Wancheng Zhang, and Xianglin Zhang. **"Investigation on the blanking properties of thin multi-layer electrode of lithium-ion battery"**. *Journal of Physics and Chemistry of Solids*, **134**, 14-20 (2019).
 - Wancheng Zhang, Ismat Ullah, Lei Shi, Yu Zhang, <u>Hao Ou</u>, Jinge Zhou, Muhammad Wajid Ullah, Xianglin Zhang, and Wenchao Li. **"Fabrication and characterization of porous polycaprolactone scaffold via extrusion-based cryogenic 3D printing for tissue engineering"**. *Materials \& Design*, **180**, 107946 (2019).
-## 2017
-
-- Wei Wu, Hongzhi Cao, <u>Hao Ou</u>, Zhichao Chen, Xianglin Zhang, Zhonghan Luo, Shenlin Chen, and Rongfeng Li. **"Effects of punching process on crystal orientations, magnetic and mechanical properties in non-oriented silicon steel"**. *Journal of Magnetism and Magnetic Materials*, **444**, 211-217 (2017).
