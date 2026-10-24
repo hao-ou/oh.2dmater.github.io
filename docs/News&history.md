@@ -10,4 +10,4 @@
    
    - **2026.07.01** - Won the Best Poster Award on 2D Transition Metal Dichalcogenides 2026!
 
-   - **2026.10.24** - Won the 飯島奨励賞 (Iijima Encouragement Award) of the Fullerenes, Nanotubes and Graphene Research Society!
+   - **2026.10.14** - Won the Iijima Encouragement Award (飯島奨励賞) of the Fullerenes, Nanotubes and Graphene Research Society!
