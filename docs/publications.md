@@ -7,7 +7,7 @@
 - Rei Usami, Koshi Oi, Keisuke Yamada, Jiang Pu, <u>Hao Ou</u>, Takahiko Endo, Yasumitsu Miyata, and Taishi Takenobu. **"Stepwise Engineering of Van der Waals Heterostructures for High Current Density in Light Emitting Devices"**. *Advanced Electronic Materials*, e00930 (2026).
 ## 2025
 
-- <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Ryo Kitaura, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Continuous Strain Modulation of Moir\'e Superlattice Symmetry From Triangle to Rectangle"**. *Small*, **21**, 2407316 (2025).
+- <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Ryo Kitaura, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Continuous Strain Modulation of Moiré Superlattice Symmetry From Triangle to Rectangle"**. *Small*, **21**, 2407316 (2025).
 ## 2023
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Ion-gel-based light-emitting devices using transition metal dichalcogenides and hexagonal boron nitride heterostructures"**. *Japanese Journal of Applied Physics*, **62**, SC1026 (2023).

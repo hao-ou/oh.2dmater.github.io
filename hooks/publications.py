@@ -18,10 +18,24 @@ bibtexparser v1/v2 API break.
 from __future__ import annotations
 
 import re
+import unicodedata
 from pathlib import Path
 
 ENTRY_HEAD = re.compile(r"@(\w+)\s*\{\s*([^,\s]+)\s*,")
 FIELD_HEAD = re.compile(r"(\w+)\s*=\s*")
+
+# BibTeX writes accented letters as escapes ("Moir{\'e}"); strip the braces and compose them into
+# real Unicode so the page never shows a stray backslash.
+_ACCENT_MARKS = {"'": "\u0301", '"': "\u0308", "`": "\u0300", "^": "\u0302", "~": "\u0303"}
+_ACCENT_RE = re.compile(r"\\(['\"`^~])\{?([A-Za-z])\}?")
+
+
+def decode_latex_accents(value: str) -> str:
+    def _compose(match: re.Match[str]) -> str:
+        mark = _ACCENT_MARKS.get(match.group(1))
+        return unicodedata.normalize("NFC", match.group(2) + mark) if mark else match.group(0)
+
+    return _ACCENT_RE.sub(_compose, value)
 
 
 def _read_group(text: str, pos: int, opener: str, closer: str) -> tuple[str, int]:
@@ -104,8 +118,8 @@ def format_authors(author_string: str) -> str:
 
 
 def render_entry(fields: dict[str, str]) -> str:
-    title = fields.get("title", "").replace("{", "").replace("}", "")
-    journal = fields.get("journal", fields.get("booktitle", ""))
+    title = decode_latex_accents(fields.get("title", "").replace("{", "").replace("}", ""))
+    journal = decode_latex_accents(fields.get("journal", fields.get("booktitle", "")))
     authors = format_authors(fields.get("author", "")).replace("Hao Ou", "<u>Hao Ou</u>")
     volume = fields.get("volume", "")
     pages = fields.get("pages", "").replace("--", "-")
