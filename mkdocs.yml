@@ -5,6 +5,11 @@ site_url: https://hao-ou.github.io/oh.2dmater.github.io/
 plugins:
   - search
 
+# Regenerates docs/publications.md from docs/publications.bib before every build,
+# so the .bib is the single source of truth (no manual ParseBib.py step).
+hooks:
+  - hooks/publications.py
+
 theme: 
   name: material
   logo: assets/Logo.png

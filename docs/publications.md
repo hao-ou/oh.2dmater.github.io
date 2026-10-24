@@ -8,14 +8,10 @@
 ## 2025
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Ryo Kitaura, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Continuous Strain Modulation of Moir\'e Superlattice Symmetry From Triangle to Rectangle"**. *Small*, **21**, 2407316 (2025).
-## 2024
-
-- Koshi Oi, <u>Hao Ou</u>, Jiang Pu, Takahiko Endo, Yasumitsu Miyata, and Taishi Takenobu. **"High current density in electric double layer light-emitting devices of WSe2 monolayers"**. ** (2024).
 ## 2023
 
 - <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Ion-gel-based light-emitting devices using transition metal dichalcogenides and hexagonal boron nitride heterostructures"**. *Japanese Journal of Applied Physics*, **62**, SC1026 (2023).
 - Yuki Tanaka, Shun-ichiro Ito, Junfeng Liu, <u>Hao Ou</u>, Hisaaki Tanaka, Jiang Pu, Atsuhiro Ikeno, Takuji Hatakeyama, and Taishi Takenobu. **"Solution-Processable Ultrapure-Blue Light-Emitting Electrochemical Cells"**. *Advanced Optical Materials*, **11**, 2301119 (2023).
-- <u>Hao Ou</u>, Koshi Oi, Rei Usami, Takahiko Endo, Keisuke Shinokita, Kazunari Matsuda, Yasumitsu Miyata, Jiang Pu, and Taishi Takenobu. **"Strain Modulation to Moire Superlattices in Two-Dimensional Material van der Waals Heterostructures"**. ** (2023).
 ## 2022
 
 - <u>Hao Ou</u>, Tomoyuki Yamada, Masaya Mitamura, Yusuke Edagawa, Tatsuma D Matsuda, Kazuhiro Yanagi, Chang-Hsiao Chen, Lain-Jong Li, Taishi Takenobu, and Jiang Pu. **"Electric-field-induced metal-insulator transition and quantum transport in large-area polycrystalline MoS 2 monolayers"**. *Physical Review Materials*, **6**, 064005 (2022).
